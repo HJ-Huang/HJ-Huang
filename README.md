@@ -1,16 +1,17 @@
-### Hi there 👋
+##自我介绍：
 
-<!--
-**HJ-Huang/HJ-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| 姓名 | 黄浩捷 |
 
-Here are some ideas to get you started:
+| ----------------- |--------------- |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 班级 | 18级信息安全1班 | 
+
+| 学号 | 3118005364 |
+
+| 邮箱 | 519759575@qq.com |
+
+| 专业能力 | 掌握C语言基础、Java入门 |
+
+| 兴趣爱好 | 民族传统音乐 |
+
+| GitHub | https://github.com/HJ-Huang |
